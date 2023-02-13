@@ -1,0 +1,87 @@
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.csproj.AssemblyReference.cache
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.AssemblyInfoInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.AssemblyInfo.cs
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.csproj.CoreCompileInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.RazorAssemblyInfo.cache
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.RazorAssemblyInfo.cs
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\appsettings.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Coffee Shop Product List.staticwebassets.runtime.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Coffee Shop Product List.exe
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Coffee Shop Product List.deps.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Coffee Shop Product List.runtimeconfig.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Coffee Shop Product List.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Coffee Shop Product List.pdb
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets\msbuild.Coffee Shop Product List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets\msbuild.build.Coffee Shop Product List.props
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Coffee Shop Product List.props
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Coffee Shop Product List.props
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\scopedcss\bundle\Coffee Shop Product List.styles.css
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\scopedcss\projectbundle\Coffee Shop Product List.bundle.scp.css
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.csproj.CopyComplete
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\refint\Coffee Shop Product List.dll
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.pdb
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\Coffee Shop Product List.genruntimeconfig.cache
+C:\Users\Percy\Desktop\Deliverables\Coffee Shop Product List\obj\Debug\net6.0\ref\Coffee Shop Product List.dll

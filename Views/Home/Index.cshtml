@@ -1,0 +1,22 @@
+﻿@model List<Product>
+
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@{
+    foreach(Product p in Model)
+    {
+        <a asp-action="ProductDetails" asp-route-id="@p.Id">
+        <div class="card">
+            <p>@p.Name</p>
+            <p>@p.Category</p>
+        
+        </div>       
+        </a>
+    }
+}
